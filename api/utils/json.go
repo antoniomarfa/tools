@@ -11,7 +11,7 @@ import (
 	"os"
 	"time"
 
-	"tools/wrappers"
+	"github.com/antoniomarfa/tools/wrappers"
 )
 
 // ResponseJSON makes the response with payload as json format

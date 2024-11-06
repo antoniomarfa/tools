@@ -3,7 +3,7 @@ package middlewares
 import (
 	"fmt"
 
-	"tools/api/utils"
+	"github.com/antoniomarfa/tools/api/utils"
 
 	"github.com/gin-gonic/gin"
 )

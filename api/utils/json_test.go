@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"tools/wrappers"
+	"github.com/antoniomarfa/tools/wrappers"
 
 	"github.com/stretchr/testify/assert"
 )

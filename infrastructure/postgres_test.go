@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"tools/mocks"
+	"github.com/antoniomarfa/tools/mocks"
 
 	"github.com/stretchr/testify/assert"
 )
